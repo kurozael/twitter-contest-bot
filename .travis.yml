@@ -1,0 +1,5 @@
+language: python
+python:
+  - "2.7"
+install: "pip install TwitterAPI"
+script: python -m py_compile main.py

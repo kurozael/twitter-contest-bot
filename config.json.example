@@ -1,0 +1,15 @@
+{
+        "search-queries": ["#giveaway", "Retweet and win", "retweet and you could win", "rt for your chance to win", "#giveawayalert", "win rt", "#rttowin", "#sweepstakes"],
+        "follow-keywords": [" follow ", " follower ", "following"],
+        "fav-keywords": [" fav ", " favorite "],
+        "scan-update-time": 83,
+        "retweet-update-time": 83,
+        "rate-limit-update-time": 83,
+        "min-ratelimit":20,
+        "min-ratelimit-retweet":96,
+        "min-ratelimit-search":94,
+	"consumer-key": "Consumer Key Goes Here",
+	"consumer-secret": "Consumer Secret Goes Here",
+	"access-token-key": "Access Token Key Goes Here",
+	"access-token-secret": "Access Token Goes Here. Read README for HELP"
+}
